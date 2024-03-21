@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aiolosi
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python
 
 <!---
 aiolosi/aiolosi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
